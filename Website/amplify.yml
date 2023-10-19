@@ -13,4 +13,4 @@ frontend:
       - 'Website/Index.html'
   cache:
     paths:
-      - node_modules/**/*
+      - 'Website/Index.html'
