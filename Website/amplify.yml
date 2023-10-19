@@ -10,7 +10,7 @@ frontend:
   artifacts:
     baseDirectory: public
     files:
-      - '**/*'
+      - 'Website/Index.html'
   cache:
     paths:
       - node_modules/**/*
